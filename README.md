@@ -1,4 +1,8 @@
-## Hi there 👋
+## Sou Elisama Lima
+Tenho mais de 10 anos na área de TI e atuo a mais de 3 anos na área de testes.
+
+⚡Cursando Pós-graduação em Automação de Testes de Software, para aprimorar as habilidades em testes automatizados.
+
 
 <!--
 **Elisama-QSL/Elisama-QSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
